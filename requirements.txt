@@ -1,0 +1,1 @@
+applog @ https://github.com/rhody-technologies/python-applog/releases/download/v0.1.0/applog-0.1.0-py3-none-any.whl
