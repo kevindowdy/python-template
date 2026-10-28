@@ -7,13 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Added
+## [0.1.1] - 2026-10-28
 
-- Initial project template: source layout, test scaffolding, CI/CD
-  workflows, and contributor documentation.
+### Changed
+
+- Log_path configuration in main to be cross-platform compatible 
 
 ## [0.1.0] - 2026-09-02
 
 ### Added
 
-- Initial release of the template repository.
+- Initial project template: source layout, test scaffolding, CI/CD
+  workflows, and contributor documentation.
